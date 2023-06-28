@@ -35,7 +35,9 @@ use bioneer::Bionify;
 let text = "Hello, world!";
 let bionified_text = text.bionify();
 println!("{}", bionified_text);
+// "<b>Hel</b>lo, <b>Wor</b>ld!" 
 ```
+**Hel**lo, **Wor**ld!
 
 ## License
 
