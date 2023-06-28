@@ -10,7 +10,7 @@
 //!
 //! ```toml
 //! [dependencies]
-//! bioneer = "0.1"
+//! bioneer = "0.1.1"
 //! ```
 //!
 //! Then, import the necessary items into your Rust code:

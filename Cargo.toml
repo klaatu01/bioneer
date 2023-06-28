@@ -1,10 +1,10 @@
 [package]
 name = "bioneer"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 repository = "https://github.com/klaatu01/bioneer"
 description = "An Open-Source Rust Implementation of Bionic Reading."
-documentation = "https://docs.rs/klaatu01/0.1.0/bioneer/"
+documentation = "https://docs.rs/klaatu01/0.1.1/bioneer/"
 readme = "README.md"
 license = "MIT"
 keywords = ["bionic", "reading", "bionify", "bioneer", "html"]

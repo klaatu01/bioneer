@@ -8,7 +8,7 @@ Add the following dependency to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-bioneer = "0.1"
+bioneer = "0.1.1"
 ```
 
 ## Usage
